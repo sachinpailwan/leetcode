@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a3181a65-337c-428b-91f9-b225eaa4e877" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/mock/Test4MedianOfTwoSortedArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/mock/Test5LongestPalindrom.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -41,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.com.pailsom.leetcode.mock.Test5LongestPalindromKt">
     <configuration name="com.pailsom.leetcode.mock.Test4MedianOfTwoSortedArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
@@ -55,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.pailsom.leetcode.mock.Test5LongestPalindromKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.pailsom.leetcode.mock.Test5LongestPalindromKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.pailsom.leetcode.mock.Test5LongestPalindromKt" />
         <item itemvalue="Kotlin.com.pailsom.leetcode.mock.Test4MedianOfTwoSortedArrayKt" />
       </list>
     </recent_temporary>
@@ -121,16 +137,5 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/leetcode" />
     </ignored-roots>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/com/pailsom/leetcode/mock/Test4MedianOfTwoSortedArray.kt</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
