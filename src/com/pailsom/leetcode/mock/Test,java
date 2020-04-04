@@ -1,0 +1,29 @@
+package com.pailsom.leetcode.mock;
+
+import java.util.Scanner;
+import java.util.Stack;
+
+public class Test {
+    public static void main(String []arg){
+        Scanner in = new Scanner(System.in);
+        String input = in.nextLine();
+        Stack<Character> inStack = new Stack<>();
+        Stack<Character> outStack = new Stack<>();
+        int len=0;
+        for(Character c : input.toCharArray()){
+            if(c=='(')
+                inStack.push(c);
+            if(c==')'){
+                outStack.push(c);
+            }
+        }
+        while (!inStack.empty()){
+            inStack.pop();
+            if(outStack.empty())
+                break;
+            outStack.pop();
+            len++;
+        }
+        System.out.println(len);
+    }
+}
