@@ -2,12 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3181a65-337c-428b-91f9-b225eaa4e877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/mock/FindNextPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/mock/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/mock/SquareMatrixPrintASK.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/mock/Test,java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/mock/ZigZag.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/binary/tree/LevelAverage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/AddString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/Bipartite.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/Divide.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/MoveZeroToLeft.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/Subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/ThirdMaximum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/TwoSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/medium/WordSearch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/114FlattenBinaryTreeToLinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/128longestConsecutive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/131PalindromeParitition.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/3LongestSubstring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/AddTwoNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/Circle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/MaximumWeight.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/MergeKLinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/NumberToAlphabet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/top100/SwapNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/2192Ancesters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/2192Ancesters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/39CombinationSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/39CombinationSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/442FindAllDuplicate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/442FindAllDuplicate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/DecodeWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/DecodeWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/Display.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/Display.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/SearchingRange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/SearchingRange.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/ValidPalimdrome2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/ValidPalimdrome2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/ValidSudoku.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/ValidSudoku.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/AddDigits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/AddDigits.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/BestTimeBuyAndSale.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/BestTimeBuyAndSale.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/BinaryAdd.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/BinaryAdd.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ContainDuplicate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ContainDuplicate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Conversation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Conversation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/DeleteDuplicateListNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/DeleteDuplicateListNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ExcelColumn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ExcelColumn.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/FindTheDifference.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/FindTheDifference.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/IndexOf.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/IndexOf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/IntersectWord.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/IntersectWord.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/KthElementOfArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/KthElementOfArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LetterCombination.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LetterCombination.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ListNodeIntersection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ListNodeIntersection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LongestCommonPrefix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LongestCommonPrefix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LongestIncreasingPath.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LongestIncreasingPath.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LongestPalimdrom.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LongestPalimdrom.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MaxSubArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MaxSubArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeInterval.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeInterval.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeTwoSortedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeTwoSortedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MissingNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MissingNumbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Palindrome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PlusOne.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PlusOne.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/RemoveElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/RemoveElement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/RomanToInt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/RomanToInt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SortArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SortArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SqureRt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SqureRt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StackExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StackExample.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StrStr.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StrStr.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StringCompression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StringCompression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Suffle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Suffle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SumRange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SumRange.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/TopKFrequentElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/TopKFrequentElement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Twosum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Twosum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ValidParentheses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/ValidParentheses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/binaryTreePath.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/binaryTreePath.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/fuzzWord.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/fuzzWord.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/linkedList/BinaryLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/linkedList/BinaryLevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/LevelAverageTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/LevelAverageTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/SameTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/SameTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/SortedBalancedTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/SortedBalancedTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/TreeTraversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/easy/tree/TreeTraversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/likely/FindingAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/likely/FindingAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/likely/PartitionLabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/likely/PartitionLabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/leetcode/likely/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/leetcode/likely/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Monolithic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Monolithic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/RomanToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/RomanToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/Twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pailsom/leetcode/easy/Twosum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +92,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -32,7 +106,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="D:/work/gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../gcp-batch-job/gcp-batch-job" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -47,13 +121,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.pailsom.leetcode.mock.ZigZagKt">
-    <configuration name="FindNextPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pailsom.leetcode.mock.FindNextPrimeNumber" />
+  <component name="RunManager" selected="Kotlin.LevelAverageKt">
+    <configuration name="Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.leetcode.medium.Subset" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pailsom.leetcode.mock.*" />
+          <option name="PATTERN" value="com.kotlin.leetcode.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,53 +135,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.pailsom.leetcode.mock.SquareMatrixPrintASKKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="LevelAverageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.pailsom.leetcode.mock.SquareMatrixPrintASKKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.leetcode.binary.tree.LevelAverageKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.pailsom.leetcode.mock.Test4MedianOfTwoSortedArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MoveZeroToLeftKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.pailsom.leetcode.mock.Test4MedianOfTwoSortedArrayKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.leetcode.medium.MoveZeroToLeftKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.pailsom.leetcode.mock.Test5LongestPalindromKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="SubsetsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.pailsom.leetcode.mock.Test5LongestPalindromKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.leetcode.medium.SubsetsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.pailsom.leetcode.mock.ZigZagKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ThirdMaximumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.pailsom.leetcode.mock.ZigZagKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.leetcode.medium.ThirdMaximumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.pailsom.leetcode.mock.ZigZagKt" />
-        <item itemvalue="Application.FindNextPrimeNumber" />
-        <item itemvalue="Kotlin.com.pailsom.leetcode.mock.SquareMatrixPrintASKKt" />
-        <item itemvalue="Kotlin.com.pailsom.leetcode.mock.Test5LongestPalindromKt" />
-        <item itemvalue="Kotlin.com.pailsom.leetcode.mock.Test4MedianOfTwoSortedArrayKt" />
+        <item itemvalue="Kotlin.LevelAverageKt" />
+        <item itemvalue="Kotlin.MoveZeroToLeftKt" />
+        <item itemvalue="Application.Subset" />
+        <item itemvalue="Kotlin.SubsetsKt" />
+        <item itemvalue="Kotlin.ThirdMaximumKt" />
       </list>
     </recent_temporary>
   </component>
@@ -187,15 +261,323 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/com/pailsom/leetcode/mock/ZigZag.kt</url>
-          <line>28</line>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pailsom/leetcode/easy/RomanToInt.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/PascalTriangle.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/DecodeWays.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/medium/Subset.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/com/pailsom/leetcode/mock/ZigZag.kt</url>
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MaxSubArray.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/BinaryAdd.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/BestTimeBuyAndSale.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/BestTimeBuyAndSale.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StrStr.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StrStr.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StrStr.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SumRange.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/SumRange.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/binaryTreePath.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/IntersectWord.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Conversation.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/fuzzWord.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/fuzzWord.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/IntersectWord.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/IntersectWord.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Suffle.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Suffle.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/Conversation.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/TopKFrequentElement.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/TopKFrequentElement.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LongestIncreasingPath.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/KthElementOfArray.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/LetterCombination.kt</url>
+          <line>4</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/StringCompression.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeInterval.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeInterval.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeInterval.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/easy/MergeInterval.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/likely/PartitionLabel.kt</url>
+          <line>37</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/ValidPalimdrome2.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/SearchingRange.kt</url>
           <line>14</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/SearchingRange.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/39CombinationSum.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/39CombinationSum.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/442FindAllDuplicate.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/442FindAllDuplicate.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/442FindAllDuplicate.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/top100/114FlattenBinaryTreeToLinkedList.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/top100/114FlattenBinaryTreeToLinkedList.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/top100/114FlattenBinaryTreeToLinkedList.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/top100/131PalindromeParitition.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/top100/SwapNode.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/medium/Divide.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/medium/Divide.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/medium/AddString.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/medium/AddString.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/medium/MoveZeroToLeft.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/medium/MoveZeroToLeft.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/binary/tree/LevelAverage.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/leetcode/binary/tree/LevelAverage.kt</url>
+          <line>50</line>
+          <option name="timeStamp" value="134" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
