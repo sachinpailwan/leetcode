@@ -1,9 +1,13 @@
 package com.kotlin.leetcode
 
-fun main() {
 
-    printTree(4)
+fun main() {
+    var animals = listOf("applet","biscuit","applet","cat","cat")
+    var nonDuplicateAnimals = animals.toSet()
+    println(nonDuplicateAnimals)
+    nonDuplicateAnimals.forEach { it -> print(it) }
 }
+
 
 fun printTree(n:Int){
     for(i in n-1 downTo 0){

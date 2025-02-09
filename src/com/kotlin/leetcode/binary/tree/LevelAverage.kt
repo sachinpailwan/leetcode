@@ -85,7 +85,7 @@ fun reverseKGroup(head: ListNode?, k: Int): ListNode? {
 //    val q: Queue<TreeNode?> = LinkedList()
 //    // if(root==null)
 //    q.add(root)
-//    val arr: MutableList<Double> = ArrayList()
+//    val arr: MutableLxxx zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzist<Double> = ArrayList()
 //    var ans = 0.0
 //    while (!q.isEmpty()) {
 //        val n: Int = q.size
